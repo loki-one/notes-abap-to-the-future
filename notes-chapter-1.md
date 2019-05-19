@@ -1,4 +1,4 @@
-#ABAP in Eclipse
+# ABAP in Eclipse
 
 ## Searching for artifacts in the abap repository using Eclipse
 * Shortcut: `CTRL + Shift + A`.
